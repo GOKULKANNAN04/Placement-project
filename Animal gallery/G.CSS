@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.animal{
+    background-color: burlywood;
+    display: flex;
+    justify-content: start;
+    
+}
+.name{
+    background-color: burlywood;
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.animal_image{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.animal_details{
+    margin-top: 70px;
+}
+.animal_video{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 150px;
+    margin-right: 30px;
+}
+.animal_image audio{
+    margin-top: 10px;
+    margin-left: -10px;
+
+}
+.adi{
+    height: 30px;
+}
+.king{
+    background-color: burlywood;
+    display: flex;
+    justify-content: start;
+}
+.lion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.desc{
+    background-color: burlywood;
+    margin-left: 118px;
+    margin-top: 50px;
+    margin-right: 150px;
+
+}
+.video{
+    margin-right: 30px;
+}
+.lion audio{
+    margin-top: 10px;
+    
+}
+.dio{
+    height: 30px;
+}
