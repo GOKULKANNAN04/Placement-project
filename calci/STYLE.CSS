@@ -1,0 +1,37 @@
+.input{
+    display: grid;
+    grid-template-columns: repeat(4,25px);
+    gap: 25px;
+    background-color: cornflowerblue;
+    height: 450px;
+    width: 290px;
+    border-radius: 40px;
+    margin-top: 50px;
+
+    
+}
+.text input{
+    width: 230px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color:pink;
+    font-size: 30px;
+}
+.math{
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: repeat(4,30px);
+    gap: 25px;
+    text-align: center;
+}
+.math button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: -20px;
+}
